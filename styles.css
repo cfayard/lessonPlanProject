@@ -12,6 +12,7 @@ header {
     margin-right: auto;
     width: fit-content;
     text-align: center;
+    padding-top: 10px;
 }
 
 nav {
@@ -47,16 +48,29 @@ h3 {
     text-align: center;
 }
 
+li {
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    color: rgb(239, 196, 159);
+}
+
 .homePageParagraph {
     font-family: 'Orbitron', sans-serif;
     text-align: center;
     color: rgb(239, 196, 159);
-    padding-top: 30px;
+    padding-top: 20px;
 }
 
 .aboutParagraph {
     padding-top: 30px;
+    padding-bottom: 30px;
     text-align: center;
+    color: rgb(239, 196, 159);
+}
+
+.contactForm {
+    font-family: 'Orbitron', sans-serif;
+    color: sienna;
 }
 
 button {
