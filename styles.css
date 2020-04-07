@@ -73,10 +73,28 @@ li {
     color: sienna;
 }
 
+.picturesContainer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.drumPadContainer {
+    display: inline;
+    padding-left: 30px;
+}
+
+.drumPads {
+    width: 25%;
+    height: 15%;
+    background-color: sienna;
+}
+
 button {
     font-family: 'Orbitron', sans-serif;
     color: rgb(239, 196, 159);
     background-color: black;
+    border-color: rgb(239, 196, 159);
 }
 
 section {
@@ -99,3 +117,4 @@ footer {
     color: sienna;
     text-align: center;
 }
+
