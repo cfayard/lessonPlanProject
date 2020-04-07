@@ -54,6 +54,11 @@ h3 {
     padding-top: 30px;
 }
 
+.aboutParagraph {
+    padding-top: 30px;
+    text-align: center;
+}
+
 button {
     font-family: 'Orbitron', sans-serif;
     color: rgb(239, 196, 159);
