@@ -1,9 +1,82 @@
-/* footer {
+
+body, html {
+    height: 100%;
+    background-color: black;
+}
+
+header {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    color: sienna;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+.imageHomePage {
+    padding-top: 27px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.homePageDescription {
+    padding-top: 20px;
+}
+
+.homePageNameH3 {
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    color: rgb(239, 196, 159);
+}
+
+h3 {
+    font-family: 'Orbitron', sans-serif;
+    color: sienna;
+    text-align: center;
+}
+
+.homePageParagraph {
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    color: rgb(239, 196, 159);
+    padding-top: 17px;
+}
+
+button {
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(239, 196, 159);
+    background-color: black;
+}
+
+section {
+    color: sienna;
+    font-family: 'Orbitron', sans-serif;
+}
+
+hr {
+    color: sienna;
+}
+
+
+footer {
+    font-family: 'Orbitron', sans-serif;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
-    color: white;
+    background-color: black;
+    color: sienna;
     text-align: center;
-} */
+}
